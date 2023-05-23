@@ -38,7 +38,7 @@ kwargs = {}
 
 
 install_requires = [
-      'requests==2.26.0',
+      'requests==2.31.0',
       'fastecdsa==2.2.3;platform_system!="Windows"',
       'ecdsa==0.16;platform_system=="Windows"',
       'pyaes==1.6.1',
