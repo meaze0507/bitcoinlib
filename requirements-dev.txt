@@ -1,4 +1,4 @@
-requests==2.26.0
+requests==2.31.0
 fastecdsa==2.2.3
 pyaes==1.6.1
 scrypt==0.8.19
